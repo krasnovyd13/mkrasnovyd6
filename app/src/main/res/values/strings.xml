@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">Calculator</string>
+
+
+
+    <!-- Memory and operation controls -->
+
+    <string name="mc">MC</string>
+
+    <string name="mr">MR</string>
+
+    <string name="ms">MS</string>
+
+    <string name="m_plus">M+</string>
+
+    <string name="m_minus">M-</string>
+
+    <string name="ce">CE</string>
+
+    <string name="c">C</string>
+
+    <string name="backspace">←</string>
+
+    <string name="plus_minus">±</string>
+
+
+
+    <!-- Numeric buttons -->
+
+    <string name="btn_0">0</string>
+
+    <string name="btn_1">1</string>
+
+    <string name="btn_2">2</string>
+
+    <string name="btn_3">3</string>
+
+    <string name="btn_4">4</string>
+
+    <string name="btn_5">5</string>
+
+    <string name="btn_6">6</string>
+
+    <string name="btn_7">7</string>
+
+    <string name="btn_8">8</string>
+
+    <string name="btn_9">9</string>
+
+
+
+    <!-- Decimal point -->
+
+    <string name="dot">.</string>
+
+
+
+    <!-- Arithmetic operations -->
+
+    <string name="plus">+</string>
+
+    <string name="minus">-</string>
+
+    <string name="multiply">*</string>
+
+    <string name="divide">/</string>
+
+
+
+    <!-- Additional operations -->
+
+    <string name="sqrt">√</string>
+
+    <string name="equals">=</string>
+
+    <string name="_6">6</string>
+
+</resources>
